@@ -1,0 +1,5 @@
+no=int(input("Enter any number:"))
+
+print("square:",no*no)
+
+print("cube:",no*no*no)
